@@ -1,0 +1,21 @@
+/* COULEUR et COULEUR de FOND par rapport au type d'article */
+
+.autres{
+    background-color: black;
+    color: white;
+}
+
+.politique{
+    background-color: red;
+    color: white;
+}
+
+.sport{
+    background-color: green;
+    color: white;
+}
+
+.faits-divers{
+    background-color: blue;
+    color: white;
+}
